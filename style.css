@@ -1,0 +1,115 @@
+html,body{
+    height:100%;
+    width:100%;
+}
+.contact{
+    background:#AD140D;
+    padding: .45rem;
+    color:white;
+    position: fixed;
+    top: 0px;
+    /* bottom: 0px; */
+    right: 0px;
+    left: 0px;
+    z-index: 1030;
+
+}
+.contact> h4{
+margin-left:3rem;
+}
+.social-icon{
+    padding-right: 5rem;
+}
+.social-icon{
+    float:right;
+}
+
+ .name > h1{
+    font-weight: 300;
+    line-height: 1.2;
+}
+.nav-custom  a{
+    margin-left:3.5rem !important;
+    
+}
+
+.main-wrapper{
+    padding:2rem 0rem;
+}
+
+.main-wrapper img{
+    max-height: 15rem;
+}
+
+#navbar img{
+    max-height:8.75rem;
+}
+
+#navbar a:hover {
+   border-bottom: 1px solid #AD140D;
+}
+#navbar a:hover {
+    border-bottom: 1px solid #AD140D;
+}
+
+.social-icon a{
+    margin-left:1rem;
+    color:white;
+}
+
+.footer-wrapper{
+    background: #AD140D;
+    padding: 0.75rem;
+    color:white;
+}
+
+.heading-text{
+    text-align:center;
+    font-weight: normal;
+    line-height: 1.2;
+    padding-bottom:1.5rem;
+}
+
+.copy-rights{
+    text-align: right;
+    display: inline-block;
+    width: 69%;
+}
+.designer{
+    width: 30%;
+    padding-left: 1.5rem;
+    display: inline-block;
+}
+
+.aboutme-wrapper{
+    margin: 1.5rem 0rem;
+    padding: 1rem 0rem;
+
+}
+.card:hover{
+    transform: scale3d(1.006, 1.006, 1);
+    box-shadow: 0 8px 17px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .15);
+}
+
+.nav-custom{
+    top:6.5%;
+}
+
+.main-body-wrapper{
+    margin-top:14rem;
+}
+.question-wrapper li{
+padding:0.35rem 0rem;
+}
+.modal-dialog{
+    transform: translate(0px,12rem)!important;
+}
+.aboutme-background{
+    background: #ffecec;
+    padding: 1rem 2rem;
+}
+
+.aboutme-background:hover{
+    transform: scale3d(1.006, 1.006, 1);
+    box-shadow: 0 8px 17px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .15);
+}
